@@ -1,6 +1,7 @@
 - Howdy! I’m @akierson. 
-- Currently working professionally as a code monkey. Hoping to make the world a better place for all people.
-- You can reach me on LinkedIn @akierson
+- 🐵 Professional full stack code monkey
+- 🐘 Currently working with PHP, SQL, and JS
+- 🎨 Interested in generative art
 
 <!---
 akierson/akierson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
